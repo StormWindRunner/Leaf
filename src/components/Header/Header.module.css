@@ -1,0 +1,16 @@
+.header {
+    padding: 5px;
+    font-size: 14px;
+    
+}
+
+.navbarList {
+    display: flex;
+    justify-content: space-between;
+    list-style: none;
+}
+
+.navbarList li a{
+    text-decoration: none;
+    color: bisque;
+}
