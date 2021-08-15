@@ -1,7 +1,7 @@
 .header {
-    padding: 5px;
+    padding: 10px;
     font-size: 14px;
-    
+    background-color: #fff;
 }
 
 .navbarList {
@@ -12,5 +12,5 @@
 
 .navbarList li a{
     text-decoration: none;
-    color: bisque;
+    color: black;
 }

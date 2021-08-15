@@ -1,7 +1,12 @@
 
 
-
 .divMain {
     border: 1px solid red;
+    height: auto;
+    background-image: url('./backgroundMain.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: none;
+    height: 700px;
 }
 

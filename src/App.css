@@ -8,9 +8,9 @@
   border: 1px solid green;
   max-width: 1280px;
   margin: 0 auto;
-  background-image: url('./images/backgroundMain.jpg');
+  /* background-image: url('./images/backgroundMain.jpg');
   background-size: cover;
   background-position: center;
   background-repeat: none;
-  height: 700px;
+  height: 700px; */
 }
